@@ -37,7 +37,7 @@ function addGamesToPage(games) {
         gameCard.classList.add('game-card');
         gameCard.innerHTML=`
             <h3>${game.name}</h3>
-            <p>${game.img}</p>
+            <img src="${game.img}" class="game-img" />
             <p>${game.description}</p>
             <p><strong>Backers:</strong> ${game.backers}</p>
             <p><strong>Pleged:</strong> ${game.pledged}</p>

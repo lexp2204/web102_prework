@@ -25,19 +25,19 @@ Here's a walkthrough of implemented features:
 https://www.loom.com/share/7df015a27e1c4f108b80c908c0a2da36?sid=8a405b96-02e6-4a49-90f5-0c9f575d2881
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+Video created with ... Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Some Challenges I faced:
+- Making sure I used the exact element names that were mention in the index.html and the index.js file.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Alexis Penn]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

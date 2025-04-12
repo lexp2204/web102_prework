@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<iframe width="560" height="315" src="https://www.loom.com/share/7df015a27e1c4f108b80c908c0a2da36?sid=8a405b96-02e6-4a49-90f5-0c9f575d2881" frameborder="0" allowfullscreen></iframe>
+https://www.loom.com/share/7df015a27e1c4f108b80c908c0a2da36?sid=8a405b96-02e6-4a49-90f5-0c9f575d2881
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
